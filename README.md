@@ -1,4 +1,4 @@
-# Analyzing Parisian Associations: A Data Exploration Project
+# 📊 Analyzing Parisian Associations: A Data Exploration Project
 This project provides an exploratory analysis of associations registered in Paris. Using data obtained from an API, the project processes JSON-format data into a pandas dataframe and performs a detailed analysis of the dataset.
 
 ## 🚀 Features
